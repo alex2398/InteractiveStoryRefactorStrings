@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Historia interactiva</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_story">StoryActivity</string>
+    <string name="key_name">name</string>
+    <string name="start_button">Comienza tu aventura!</string>
+    <string name="enter_name">Introduce tu nombre</string>
+    <string name="text_story_0">En tu viaje de retorno de estudiar los anillos de Saturno, escuchas una señal que parece venir de la superficie de Marte. Es extraño porque no ha habido una colonia allí en años. Y más extraño aún, te está llamando por tu nombre: \ "Ayúdame %1$s, eres mi única esperanza.\" </string>
+    <string name="text_story_1">Aterrizas tu nave cerca de donde se originó la señal. No has notado nada raro en tu vuelo, pero hay una cueva en frente de ti. Detras de ti hay un explorador de principios del siglo 21.</string>
+    <string name="text_story_2">Continuas tu trayecto a la Tierra. Dos días después, recibes una transmision del cuartel general diciendo que han detectado un tipo de anomalía en la superficie de Marte cerca de un explorador abandonado. Te piden que lo investigues, pero la decisión es tuya dado que la misión ha durado más de lo previsto y los suministros están bajos.</string>
+    <string name="text_story_3">Tu traje está equipado con una lámpara, que usas para explorar la cueva. Después de buscar durante un rato tus niveles de oxígeno empiezan a estar bajos. Sabes que deberías ir a rellenar el tanque, pero hay una luz muy débil ahí delante.</string>
+    <string name="text_story_4">El vehículo explorador está cubierto de polvo y la mayoría de los paneles solares están rotos. Pero te sorprende que los sistemas de a bordo arranquen y funcionen. De hecho, hay un mensaje en la panta..a: \"%1$s. ven a 28.543436, -81.369031.\" Esas coordenadas no están lejos, pero no sabes si tendrás oxígeno para ir y volver.</string>
+    <string name="text_story_5">Después de un largo trayecto colina arriba, terminas en lo alto de un pequeño cráter. Miras alrededor, y te sorprendes de ver a tu androide favorito, %1$s-S1124. Se había perdido en la anterior misión a Marte! Lo llevas de vuelta a tu nave y voláis de vuelta a la Tierra.</string>
+    <string name="text_story_6">Llegas a la Tierra. Aunque tu misión ha sido un éxito, siempre te preguntarás quién enviaba esa señal. Quizás una misión futura sea capaz de investigarlo.</string>
+    <string name="choice1_1">Detente e investiga</string>
+    <string name="choice1_2">Continua a la Tierra</string>
+    <string name="choice2_1">Explora la cueva</string>
+    <string name="choice2_2">Explora el vehículo</string>
+    <string name="choice3_1">Ve a Marte a investigar</string>
+    <string name="choice3_2">Continua a la Tierra</string>
+    <string name="choice4_1">Rellena en la nave y explora el vehículo</string>
+    <string name="choice4_2">Continua hasta la luz débil</string>
+    <string name="choice5_1">Explora las coordenadas</string>
+    <string name="choice5_2">Vuelve a la Tierra</string>
+    <string name="end_button">Juega de nuevo</string>
+    <string name="null_name">Amigo</string>
+</resources>
